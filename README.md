@@ -1,6 +1,6 @@
-# hello-githup
+# hello-github
 
-Halo! Ini adalah repository Githup pertama saya.
+Halo! Ini adalah repository Github pertama saya.
 
 ## Tentang Saya
 - Nama : Baiq Aulia Ria Sasmita
@@ -8,4 +8,4 @@ Halo! Ini adalah repository Githup pertama saya.
 - Nim : 250601045
 
   ## Tujuan
-  Belajar menggunakan Git dan Githup.
+  Belajar menggunakan Git dan Github.
